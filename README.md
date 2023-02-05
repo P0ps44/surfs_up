@@ -22,4 +22,8 @@ The data has been compiled for the months of June and December below.
 
 
 ## Summary
-
+After conducting this analysis, I concluded that the shop should be open all year.Even though some days were as low as 56°, I made
+a couple of histogram charts that show that those days are pretty rare compared to the average of the 70° that normally happens.
+![This is an image](june.png)
+![This is an image](December.png)
+Thanks for viewing this anaysis, hopefully this data can help you decide to keep the shop running all year round.
