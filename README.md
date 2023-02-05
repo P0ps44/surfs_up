@@ -26,4 +26,5 @@ After conducting this analysis, I concluded that the shop should be open all yea
 a couple of histogram charts that show that those days are pretty rare compared to the average of the 70° that normally happens.
 ![This is an image](june.png)
 ![This is an image](December.png)
+
 Thanks for viewing this anaysis, hopefully this data can help you decide to keep the shop running all year round.
